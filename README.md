@@ -1,6 +1,5 @@
-### Hi there 👋
 
-[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=fud0427)](https://solved.ac/fud0427)
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=fud0427)](https://solved.ac/fud0427)
 
 <!--
 **sladuf/sladuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
