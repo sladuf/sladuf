@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white"/>
+  
 </p>
 <br>
 <p align="center">
