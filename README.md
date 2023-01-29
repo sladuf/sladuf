@@ -4,7 +4,7 @@
   <a href="https://990427.tistory.com">
     <img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tidal&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/04s27">
+  <a href="mailto:04fud27@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
