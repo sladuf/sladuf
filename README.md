@@ -1,16 +1,6 @@
 
-<h4 align="center">contact</h4>
-<p align="center">
-  <a href="https://990427.tistory.com">
-    <img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tidal&logoColor=white"/>
-  </a>
-  <a href="mailto:04fud27@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
-<h4 align="center">main skill</h4>
-<p align="center">
+## Min-Ryeong Kim, iOS Engineer
+<p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
@@ -31,21 +21,22 @@
   
 </p>
 
-<h4 align="center">can used</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-</p>
+
+- email : 04fud27@gmail.com
+- blog : https://990427.tistory.com
+
+### Experiences
+- Software Maestro 13th
+- boostcamp 8th | NAVER CONNECT
+
 
 <br>
-<p align="center">
+<p>
   <a href="https://solved.ac/fud0427">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fud0427">
   </a>
 </p>
+
 
 
 <!--
