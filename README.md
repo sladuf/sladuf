@@ -27,7 +27,6 @@
 
 ### Experiences
 - Software Maestro 13th
-- boostcamp 8th | NAVER CONNECT
 
 
 <br>
